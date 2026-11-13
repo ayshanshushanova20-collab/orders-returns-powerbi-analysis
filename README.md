@@ -2,7 +2,7 @@
 
 An end-to-end analytics project: SQL data preparation → Power BI data model → DAX measures → a two-page interactive dashboard that shows **which products drive returns and how much profit is lost because of them**.
 
-![Executive summary](screenshots/01_executive_summary.png)
+![Executive summary](Excecutive%20page.jpg)
 
 ## Business problem
 
@@ -73,7 +73,7 @@ Returns reduce revenue and profit, but a single overall return rate hides where 
 - **Product risk map**: scatter of return rate vs. margin per product (bubble size = returned revenue)
 - Navigation button back to the Executive summary
 
-![Deep-Dive](screenshots/02_deep_dive.png)
+![Deep-Dive](Deep-dive.jpg)
 
 ## Key findings
 
